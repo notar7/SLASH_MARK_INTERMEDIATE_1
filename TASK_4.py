@@ -54,7 +54,7 @@ pairs = [
 
 # Create a chatbot with the pairs
 def chatbot():
-    print("Hi! I'm ChatBot. How can I assist you today?")
+    print("Hi! I'm pUFF. How can I assist you today?")
     chat = Chat(pairs, reflections)
     chat.converse()
 
